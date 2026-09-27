@@ -42,11 +42,11 @@ Capacitive E-field probe (non-contact, 50 Hz)
 ## Demo
 
 > **Simulated feeder · live consensus engine**  
-> Every demo runs a virtual 12-node KSEB feeder with a real arbiter.  
+> Every demo runs a virtual 12-node LV feeder with a real arbiter.  
 > No 230 V hardware is implied unless the M5 rig is on stage.
 
 ---
 
-<sub>Built for KSEBL · VIT Bhopal · SIH 2026</sub>
+<sub>SIH 2026 · Open Innovation · Disaster Management · VIT Bhopal</sub>
 
 </div>
