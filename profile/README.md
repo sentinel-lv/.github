@@ -5,7 +5,8 @@
 ### Detecting and isolating broken live LV overhead conductors
 
 <img src="https://img.shields.io/badge/Smart_India_Hackathon-2026-1a4c8b?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Team-173301-4a3aa7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PS-SIH26223-4a3aa7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Team-173301-6d4aa7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Theme-Disaster_Management-d03b3b?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Category-Hardware-0ca30c?style=for-the-badge" />
 
@@ -165,5 +166,6 @@ Mentor: **Dr. Abha Trivedi**, SCAI, VIT Bhopal University
 5. LoRa Alliance regional parameters, IN865 (India 865–867 MHz licence-free band) — [lora-alliance.org](https://lora-alliance.org)
 
 <div align="center">
-<sub>Smart India Hackathon 2026 · Student Innovation · Disaster Management · Hardware · VIT Bhopal</sub>
+<sub>Smart India Hackathon 2026 · <b>SIH26223</b> · Student Innovation — Disaster Management · PS Category: Hardware<br/>
+Team 173301 · Closed-Circuit · VIT Bhopal University</sub>
 </div>
